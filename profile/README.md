@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/318257990?s=200&v=4" width="100" height="100" style="border-radius: 24px;" alt="Woofam Logo" />
+  <img src="https://avatars.githubusercontent.com/u/318257990?s=200&v=4" width="100" height="100" style="border-radius: 24px;" alt="fam-ops Logo" />
   
   # ⚡ Woofam
 
@@ -8,10 +8,10 @@
   </p>
 
   <p align="center">
-    <a href="https://woofam.github.io/">
+    <a href="https://famops.github.io/">
       <img src="https://img.shields.io/badge/🌐_Official_Portal-woofam.github.io-2563eb?style=for-the-badge&logoColor=white" alt="Official Portal" />
     </a>
-    <a href="https://woofam.github.io/3sec/">
+    <a href="https://famops.github.io/3sec/">
       <img src="https://img.shields.io/badge/⚡_3SEC_Life-Visit_Brand-10b981?style=for-the-badge&logoColor=white" alt="3SEC Life" />
     </a>
     <img src="https://img.shields.io/badge/🎓_Kids_English_Studio-Coming_Soon-7c3aed?style=for-the-badge&logoColor=white" alt="Kids English Studio" />
@@ -22,7 +22,7 @@
 
 ## 📌 공식 브랜드 포털 (Official Web Portal)
 
-> 👉 **웹 포털 바로가기: [https://woofam.github.io/](https://woofam.github.io/)**
+> 👉 **웹 포털 바로가기: [https://famops.github.io/](https://famops.github.io/)**
 
 Woofam은 직관적인 생활 의사결정 솔루션과 AI 기반 차세대 교육 콘텐츠 브랜드를 연구·개발하고 운영합니다.
 
@@ -34,7 +34,7 @@ Woofam은 직관적인 생활 의사결정 솔루션과 AI 기반 차세대 교�
 
 **"고민은 3초 만에 끝내고, 일상은 가볍게"**
 
-> 🔗 **[3SEC 브랜드 페이지 바로가기](https://woofam.github.io/3sec/)**
+> 🔗 **[3SEC 브랜드 페이지 바로가기](https://famops.github.io/3sec/)**
 
 | 서비스 | 한 줄 소개 |
 |:---|:---|
@@ -61,11 +61,11 @@ Woofam은 직관적인 생활 의사결정 솔루션과 AI 기반 차세대 교�
 
 ## 🏃 3-Sec Treadmill Runner
 
-공식 포털 [woofam.github.io](https://woofam.github.io/) 메인 화면에서 8-bit 비트맵 사람 러너 런닝머신 게임을 바로 플레이할 수 있습니다.
+공식 포털 [famops.github.io](https://famops.github.io/) 메인 화면에서 8-bit 비트맵 사람 러너 런닝머신 게임을 바로 플레이할 수 있습니다.
 
 ---
 
 <div align="center">
-  <sub>© 2026 Woofam. All rights reserved.</sub>
+  <sub>© 2026 famops. All rights reserved.</sub>
 </div>
 
