@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/318257990?s=200&v=4" width="100" height="100" style="border-radius: 24px;" alt="fam-ops Logo" />
   
-  # ⚡ Woofam
+  # ⚡ famops
 
   <p align="center">
     <strong>복잡한 일상을 더 단순하고 스마트하게 (Simple & Smart Digital Products)</strong>
